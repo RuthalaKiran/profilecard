@@ -101,6 +101,7 @@ button:hover{
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
     cursor: pointer;
+    pointer-events: none;
 }
 .knowmore p{
     margin-top: 10px;
