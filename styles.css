@@ -32,6 +32,7 @@
 .icons i{
  font-size: 1.3rem;
  cursor: pointer;
+    pointer-events: none;
 }
 
 img{
@@ -42,6 +43,7 @@ img{
    padding: 5px;
    background-color: white;
    cursor: pointer;
+    pointer-events: none;
    
 }
 img:hover{
@@ -70,6 +72,7 @@ p{
     border-radius: 1rem;
     text-align: center;
     cursor: pointer;
+    pointer-events: none;
 }
 .socialmedialinks i:hover{
     color: black;
