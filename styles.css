@@ -43,7 +43,7 @@ img{
    padding: 5px;
    background-color: white;
    cursor: pointer;
-    pointer-events: none;
+    
    
 }
 img:hover{
@@ -72,7 +72,7 @@ p{
     border-radius: 1rem;
     text-align: center;
     cursor: pointer;
-    pointer-events: none;
+    
 }
 .socialmedialinks i:hover{
     color: black;
@@ -104,7 +104,7 @@ button:hover{
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
     cursor: pointer;
-    pointer-events: none;
+    
 }
 .knowmore p{
     margin-top: 10px;
