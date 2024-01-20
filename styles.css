@@ -104,7 +104,8 @@ button:hover{
     border-top-right-radius: 50px;
     border-top-left-radius: 50px;
     cursor: pointer;
-    
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
 }
 .knowmore p{
     margin-top: 10px;
